@@ -23,5 +23,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/RUNNINDEAD/threatlens.git
 cd threatlens
+```
 
 # Stay Curious Stay Sharp 
